@@ -1,0 +1,12 @@
+{
+  "name": "ai-engineering-mastery",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI Engineering mastery roadmaps and interactive learning tracker",
+  "scripts": {
+    "dev": "npm run dev --prefix web",
+    "build": "npm run build --prefix web",
+    "preview": "npm run preview --prefix web",
+    "sync-content": "rm -rf web/public/content && mkdir -p web/public/content && cp -R roadmaps skills public/content/catalog.json web/public/content/ && cp -R skills web/public/content/ && cp -R roadmaps web/public/content/"
+  }
+}

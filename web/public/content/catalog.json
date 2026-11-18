@@ -1,0 +1,530 @@
+[
+  {
+    "id": "01-ai-agents-agentic-ai-multi-agent",
+    "kind": "roadmap",
+    "title": "Complete AI Agents, Agentic AI & Multi-Agent Systems Mastery Roadmap",
+    "path": "roadmaps/01-ai-agents-agentic-ai-multi-agent.md"
+  },
+  {
+    "id": "02-ai-security-governance-responsible-ai",
+    "kind": "roadmap",
+    "title": "Enterprise AI Security, AI Governance, Responsible AI & Production Reliability Mastery Roadmap",
+    "path": "roadmaps/02-ai-security-governance-responsible-ai.md"
+  },
+  {
+    "id": "03-azure-foundry-google-gemini-agent-platform",
+    "kind": "roadmap",
+    "title": "Complete Azure AI Foundry & Google Cloud Gemini Enterprise Agent Platform Mastery Roadmap",
+    "path": "roadmaps/03-azure-foundry-google-gemini-agent-platform.md"
+  },
+  {
+    "id": "04-python-backend-distributed-systems",
+    "kind": "roadmap",
+    "title": "Complete Python Backend & Distributed Systems Mastery Roadmap",
+    "path": "roadmaps/04-python-backend-distributed-systems.md"
+  },
+  {
+    "id": "05-data-engineering-vector-observability",
+    "kind": "roadmap",
+    "title": "Complete Data Engineering, Vector Databases & AI Observability Mastery Roadmap",
+    "path": "roadmaps/05-data-engineering-vector-observability.md"
+  },
+  {
+    "id": "06-pydantic-ml-langchain-langgraph-adk-pydanticai",
+    "kind": "roadmap",
+    "title": "AI Engineering Mastery \u2014 Frameworks & ML Additional Modules",
+    "path": "roadmaps/06-pydantic-ml-langchain-langgraph-adk-pydanticai.md"
+  },
+  {
+    "id": "07-rest-api-mastery",
+    "kind": "roadmap",
+    "title": "REST API Mastery Roadmap",
+    "path": "roadmaps/07-rest-api-mastery.md"
+  },
+  {
+    "id": "08-python-advanced-mastery",
+    "kind": "roadmap",
+    "title": "Python \u2013 Complete Advanced Learning Roadmap",
+    "path": "roadmaps/08-python-advanced-mastery.md"
+  },
+  {
+    "id": "09-system-design-hld-lld",
+    "kind": "roadmap",
+    "title": "System Design \u2013 Complete HLD and LLD Mastery Roadmap",
+    "path": "roadmaps/09-system-design-hld-lld.md"
+  },
+  {
+    "id": "10-context-loop-harness-agent-harness",
+    "kind": "roadmap",
+    "title": "Context Engineering, Loop Engineering, Harness Engineering & Agent Harness Roadmap",
+    "path": "roadmaps/10-context-loop-harness-agent-harness.md"
+  },
+  {
+    "id": "11-azure-cloud-ai-backend",
+    "kind": "roadmap",
+    "title": "Complete Azure Cloud Roadmap for AI Engineers and Backend Engineers",
+    "path": "roadmaps/11-azure-cloud-ai-backend.md"
+  },
+  {
+    "id": "agents/agent-fundamentals",
+    "kind": "skill",
+    "group": "agents",
+    "title": "AI Agent Fundamentals",
+    "path": "skills/agents/agent-fundamentals.md"
+  },
+  {
+    "id": "agents/design-patterns",
+    "kind": "skill",
+    "group": "agents",
+    "title": "Agent Design Patterns",
+    "path": "skills/agents/design-patterns.md"
+  },
+  {
+    "id": "agents/multi-agent-orchestration",
+    "kind": "skill",
+    "group": "agents",
+    "title": "Multi-Agent Orchestration",
+    "path": "skills/agents/multi-agent-orchestration.md"
+  },
+  {
+    "id": "agents/reasoning-planning",
+    "kind": "skill",
+    "group": "agents",
+    "title": "Agent Reasoning & Planning",
+    "path": "skills/agents/reasoning-planning.md"
+  },
+  {
+    "id": "agents/tools-memory-state",
+    "kind": "skill",
+    "group": "agents",
+    "title": "Agent Tools, Memory & State",
+    "path": "skills/agents/tools-memory-state.md"
+  },
+  {
+    "id": "security/genai-rag-agent-security",
+    "kind": "skill",
+    "group": "security",
+    "title": "GenAI, RAG & Agent Security",
+    "path": "skills/security/genai-rag-agent-security.md"
+  },
+  {
+    "id": "security/governance-responsible-ai",
+    "kind": "skill",
+    "group": "security",
+    "title": "AI Governance & Responsible AI",
+    "path": "skills/security/governance-responsible-ai.md"
+  },
+  {
+    "id": "security/info-security-privacy",
+    "kind": "skill",
+    "group": "security",
+    "title": "Information Security & Data Privacy",
+    "path": "skills/security/info-security-privacy.md"
+  },
+  {
+    "id": "security/production-reliability",
+    "kind": "skill",
+    "group": "security",
+    "title": "AI Production Reliability",
+    "path": "skills/security/production-reliability.md"
+  },
+  {
+    "id": "cloud/cross-cloud-ai",
+    "kind": "skill",
+    "group": "cloud",
+    "title": "Cross-Cloud AI Architecture",
+    "path": "skills/cloud/cross-cloud-ai.md"
+  },
+  {
+    "id": "cloud/google-gemini-agent-platform",
+    "kind": "skill",
+    "group": "cloud",
+    "title": "Google Gemini Enterprise Agent Platform",
+    "path": "skills/cloud/google-gemini-agent-platform.md"
+  },
+  {
+    "id": "cloud/microsoft-foundry",
+    "kind": "skill",
+    "group": "cloud",
+    "title": "Microsoft Foundry (Azure AI Foundry)",
+    "path": "skills/cloud/microsoft-foundry.md"
+  },
+  {
+    "id": "backend/azure-service-bus",
+    "kind": "skill",
+    "group": "backend",
+    "title": "Azure Service Bus Mastery",
+    "path": "skills/backend/azure-service-bus.md"
+  },
+  {
+    "id": "backend/celery",
+    "kind": "skill",
+    "group": "backend",
+    "title": "Celery Mastery",
+    "path": "skills/backend/celery.md"
+  },
+  {
+    "id": "backend/distributed-systems",
+    "kind": "skill",
+    "group": "backend",
+    "title": "Distributed Systems & Messaging Architecture",
+    "path": "skills/backend/distributed-systems.md"
+  },
+  {
+    "id": "backend/fastapi",
+    "kind": "skill",
+    "group": "backend",
+    "title": "FastAPI Mastery",
+    "path": "skills/backend/fastapi.md"
+  },
+  {
+    "id": "backend/kafka",
+    "kind": "skill",
+    "group": "backend",
+    "title": "Apache Kafka Mastery",
+    "path": "skills/backend/kafka.md"
+  },
+  {
+    "id": "backend/rabbitmq",
+    "kind": "skill",
+    "group": "backend",
+    "title": "RabbitMQ Mastery",
+    "path": "skills/backend/rabbitmq.md"
+  },
+  {
+    "id": "backend/redis",
+    "kind": "skill",
+    "group": "backend",
+    "title": "Redis Mastery",
+    "path": "skills/backend/redis.md"
+  },
+  {
+    "id": "backend/sqlalchemy",
+    "kind": "skill",
+    "group": "backend",
+    "title": "SQLAlchemy Mastery",
+    "path": "skills/backend/sqlalchemy.md"
+  },
+  {
+    "id": "data/application-insights",
+    "kind": "skill",
+    "group": "data",
+    "title": "Azure Application Insights Mastery",
+    "path": "skills/data/application-insights.md"
+  },
+  {
+    "id": "data/azure-ai-search",
+    "kind": "skill",
+    "group": "data",
+    "title": "Azure AI Search Mastery",
+    "path": "skills/data/azure-ai-search.md"
+  },
+  {
+    "id": "data/chromadb",
+    "kind": "skill",
+    "group": "data",
+    "title": "ChromaDB Mastery",
+    "path": "skills/data/chromadb.md"
+  },
+  {
+    "id": "data/langfuse",
+    "kind": "skill",
+    "group": "data",
+    "title": "Langfuse Mastery",
+    "path": "skills/data/langfuse.md"
+  },
+  {
+    "id": "data/langsmith",
+    "kind": "skill",
+    "group": "data",
+    "title": "LangSmith Mastery",
+    "path": "skills/data/langsmith.md"
+  },
+  {
+    "id": "data/mongodb",
+    "kind": "skill",
+    "group": "data",
+    "title": "MongoDB Mastery",
+    "path": "skills/data/mongodb.md"
+  },
+  {
+    "id": "data/opentelemetry",
+    "kind": "skill",
+    "group": "data",
+    "title": "OpenTelemetry Mastery",
+    "path": "skills/data/opentelemetry.md"
+  },
+  {
+    "id": "data/pandas",
+    "kind": "skill",
+    "group": "data",
+    "title": "Pandas Mastery",
+    "path": "skills/data/pandas.md"
+  },
+  {
+    "id": "data/pinecone",
+    "kind": "skill",
+    "group": "data",
+    "title": "Pinecone Mastery",
+    "path": "skills/data/pinecone.md"
+  },
+  {
+    "id": "data/qdrant",
+    "kind": "skill",
+    "group": "data",
+    "title": "Qdrant Mastery",
+    "path": "skills/data/qdrant.md"
+  },
+  {
+    "id": "frameworks/google-adk",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "Google ADK Mastery",
+    "path": "skills/frameworks/google-adk.md"
+  },
+  {
+    "id": "frameworks/langchain",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "LangChain Mastery",
+    "path": "skills/frameworks/langchain.md"
+  },
+  {
+    "id": "frameworks/langgraph",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "LangGraph Mastery",
+    "path": "skills/frameworks/langgraph.md"
+  },
+  {
+    "id": "frameworks/machine-learning",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "Machine Learning Mastery",
+    "path": "skills/frameworks/machine-learning.md"
+  },
+  {
+    "id": "frameworks/pydantic",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "Pydantic Mastery",
+    "path": "skills/frameworks/pydantic.md"
+  },
+  {
+    "id": "frameworks/pydanticai",
+    "kind": "skill",
+    "group": "frameworks",
+    "title": "PydanticAI Mastery",
+    "path": "skills/frameworks/pydanticai.md"
+  },
+  {
+    "id": "rest-api/api-design-and-fastapi",
+    "kind": "skill",
+    "group": "rest-api",
+    "title": "API Design and FastAPI Implementation",
+    "path": "skills/rest-api/api-design-and-fastapi.md"
+  },
+  {
+    "id": "rest-api/auth-security-reliability",
+    "kind": "skill",
+    "group": "rest-api",
+    "title": "REST Auth, Security and Reliability",
+    "path": "skills/rest-api/auth-security-reliability.md"
+  },
+  {
+    "id": "rest-api/http-and-rest-fundamentals",
+    "kind": "skill",
+    "group": "rest-api",
+    "title": "HTTP and REST Fundamentals",
+    "path": "skills/rest-api/http-and-rest-fundamentals.md"
+  },
+  {
+    "id": "rest-api/scale-observability-genai",
+    "kind": "skill",
+    "group": "rest-api",
+    "title": "REST Scale, Observability and GenAI APIs",
+    "path": "skills/rest-api/scale-observability-genai.md"
+  },
+  {
+    "id": "python/functions-generators-decorators",
+    "kind": "skill",
+    "group": "python",
+    "title": "Functions, Generators and Decorators",
+    "path": "skills/python/functions-generators-decorators.md"
+  },
+  {
+    "id": "python/memory-concurrency-genai",
+    "kind": "skill",
+    "group": "python",
+    "title": "Memory, Concurrency and GenAI Python",
+    "path": "skills/python/memory-concurrency-genai.md"
+  },
+  {
+    "id": "python/object-model-and-data-types",
+    "kind": "skill",
+    "group": "python",
+    "title": "Python Object Model and Data Types",
+    "path": "skills/python/object-model-and-data-types.md"
+  },
+  {
+    "id": "python/oop-exceptions-stdlib",
+    "kind": "skill",
+    "group": "python",
+    "title": "OOP, Exceptions and Standard Library",
+    "path": "skills/python/oop-exceptions-stdlib.md"
+  },
+  {
+    "id": "system-design/distributed-systems",
+    "kind": "skill",
+    "group": "system-design",
+    "title": "Distributed Systems, Messaging and Reliability",
+    "path": "skills/system-design/distributed-systems.md"
+  },
+  {
+    "id": "system-design/genai-and-practice",
+    "kind": "skill",
+    "group": "system-design",
+    "title": "GenAI System Design and Practice Problems",
+    "path": "skills/system-design/genai-and-practice.md"
+  },
+  {
+    "id": "system-design/hld-fundamentals",
+    "kind": "skill",
+    "group": "system-design",
+    "title": "HLD Fundamentals",
+    "path": "skills/system-design/hld-fundamentals.md"
+  },
+  {
+    "id": "system-design/lld-patterns",
+    "kind": "skill",
+    "group": "system-design",
+    "title": "LLD, SOLID and Design Patterns",
+    "path": "skills/system-design/lld-patterns.md"
+  },
+  {
+    "id": "agent-harness/context-engineering",
+    "kind": "skill",
+    "group": "agent-harness",
+    "title": "Context Engineering",
+    "path": "skills/agent-harness/context-engineering.md"
+  },
+  {
+    "id": "agent-harness/loop-engineering",
+    "kind": "skill",
+    "group": "agent-harness",
+    "title": "Loop Engineering",
+    "path": "skills/agent-harness/loop-engineering.md"
+  },
+  {
+    "id": "agent-harness/harness-engineering",
+    "kind": "skill",
+    "group": "agent-harness",
+    "title": "Harness Engineering",
+    "path": "skills/agent-harness/harness-engineering.md"
+  },
+  {
+    "id": "agent-harness/agent-harness",
+    "kind": "skill",
+    "group": "agent-harness",
+    "title": "Agent Harness Runtime",
+    "path": "skills/agent-harness/agent-harness.md"
+  },
+  {
+    "id": "agent-harness/end-to-end-projects",
+    "kind": "skill",
+    "group": "agent-harness",
+    "title": "Agent Harness End-to-End Projects",
+    "path": "skills/agent-harness/end-to-end-projects.md"
+  },
+  {
+    "id": "azure/azure-fundamentals",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Fundamentals",
+    "path": "skills/azure/azure-fundamentals.md"
+  },
+  {
+    "id": "azure/entra-id-and-rbac",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Microsoft Entra ID and RBAC",
+    "path": "skills/azure/entra-id-and-rbac.md"
+  },
+  {
+    "id": "azure/storage-account-deep-dive",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Storage Account Deep Dive",
+    "path": "skills/azure/storage-account-deep-dive.md"
+  },
+  {
+    "id": "azure/compute-and-hosting",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Compute and Hosting",
+    "path": "skills/azure/compute-and-hosting.md"
+  },
+  {
+    "id": "azure/security-and-key-vault",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Security and Key Vault",
+    "path": "skills/azure/security-and-key-vault.md"
+  },
+  {
+    "id": "azure/networking",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Networking",
+    "path": "skills/azure/networking.md"
+  },
+  {
+    "id": "azure/databases-and-redis",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Databases and Redis",
+    "path": "skills/azure/databases-and-redis.md"
+  },
+  {
+    "id": "azure/messaging-and-integration",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Messaging and Integration",
+    "path": "skills/azure/messaging-and-integration.md"
+  },
+  {
+    "id": "azure/api-and-delivery",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure API Management and Delivery",
+    "path": "skills/azure/api-and-delivery.md"
+  },
+  {
+    "id": "azure/ai-and-ml-services",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure AI and Machine Learning",
+    "path": "skills/azure/ai-and-ml-services.md"
+  },
+  {
+    "id": "azure/monitor-and-ops",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Monitor and Operations",
+    "path": "skills/azure/monitor-and-ops.md"
+  },
+  {
+    "id": "azure/devops-and-iac",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure DevOps and Infrastructure as Code",
+    "path": "skills/azure/devops-and-iac.md"
+  },
+  {
+    "id": "azure/architecture-and-projects",
+    "kind": "skill",
+    "group": "azure",
+    "title": "Azure Architecture Scenarios and Projects",
+    "path": "skills/azure/architecture-and-projects.md"
+  }
+]
